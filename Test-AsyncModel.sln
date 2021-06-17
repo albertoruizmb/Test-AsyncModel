@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-AsyncServer", "Test-AsyncServer\Test-AsyncServer.csproj", "{06572226-6A47-4CEC-AD8E-CF6D1DA9612A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-AsyncClient", "Test-AsyncClient\Test-AsyncClient.csproj", "{C4F237FF-0B6E-4453-941E-86821491B1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06572226-6A47-4CEC-AD8E-CF6D1DA9612A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06572226-6A47-4CEC-AD8E-CF6D1DA9612A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06572226-6A47-4CEC-AD8E-CF6D1DA9612A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06572226-6A47-4CEC-AD8E-CF6D1DA9612A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F237FF-0B6E-4453-941E-86821491B1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F237FF-0B6E-4453-941E-86821491B1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F237FF-0B6E-4453-941E-86821491B1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F237FF-0B6E-4453-941E-86821491B1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {096B5396-89B4-4610-8ABC-3D844CC8FFCF}
+	EndGlobalSection
+EndGlobal
